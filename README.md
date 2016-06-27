@@ -1,2 +1,4 @@
 # hello-world
-Creating first repository
+Creating first repository...
+
+Testing the commit option for the first time.
